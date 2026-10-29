@@ -1,0 +1,23 @@
+
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Build-Ausgaben
+**/build/
+captures/
+.externalNativeBuild/
+
+# Zugangsdaten / Signaturen
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Windows
+Thumbs.db
+Desktop.ini
